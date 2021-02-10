@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+import sys
+
+sys.stdout.buffer.write(b"AAAABBBBCCCCDDDDEEEEFFFFGGGGHHHHIIIIJJJJKKKKLLLLMMMMNNNNOOOOPPPP\x24\x84\x04\x08")
